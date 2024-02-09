@@ -1,0 +1,262 @@
+{
+  "AcquisitionMatrixPE": 104,
+  "AcquisitionNumber": 1,
+  "AcquisitionTime": "09:28:54.512500",
+  "BandwidthPerPixelPhaseEncode": 16.578,
+  "BaseResolution": 104,
+  "BodyPartExamined": "BRAIN",
+  "CoilCombinationMethod": "Sum of Squares",
+  "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "DerivedVendorReportedEchoSpacing": 0.000580009,
+  "DeviceSerialNumber": "67026",
+  "DwellTime": 2.1e-06,
+  "EchoTime": 0.066,
+  "EchoTrainLength": 104,
+  "EffectiveEchoSpacing": 0.000580009,
+  "FlipAngle": 90,
+  "HeudiconvVersion": "0.11.4",
+  "ImageOrientationPatientDICOM": [
+    0.997314,
+    0.0196373,
+    -0.0705661,
+    -0.0466832,
+    0.912785,
+    -0.405763
+  ],
+  "ImageOrientationText": "Tra>Cor(-24.1)>Sag(-3.2)",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "M",
+    "ND",
+    "MOSAIC"
+  ],
+  "ImagingFrequency": 123.173,
+  "InPlanePhaseEncodingDirectionDICOM": "COL",
+  "InstitutionAddress": "13th St. 149,Charlestown,MA,US,02129",
+  "InstitutionName": "Martinos Center Bay 4 Prisma",
+  "InstitutionalDepartmentName": "Martinos Center",
+  "MRAcquisitionType": "2D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma_fit",
+  "MatrixCoilMode": "SENSE",
+  "Modality": "MR",
+  "NonlinearGradientCorrection": false,
+  "PartialFourier": 1,
+  "PatientPosition": "HFS",
+  "PercentPhaseFOV": 100,
+  "PercentSampling": 100,
+  "PhaseEncodingDirection": "j",
+  "PhaseEncodingSteps": 104,
+  "PhaseResolution": 1,
+  "PixelBandwidth": 2290,
+  "ProcedureStepDescription": "INVESTIGATORS^Greve",
+  "ProtocolName": "SpinEchoFieldMap_PA",
+  "PulseSequenceDetails": "%CustomerSeq%\\hcp_mbep2d_se",
+  "ReceiveCoilActiveElements": "HEA;HEP",
+  "ReceiveCoilName": "Head_32",
+  "ReconMatrixPE": 104,
+  "RepetitionTime": 8,
+  "SAR": 0.160208,
+  "ScanOptions": "FS",
+  "ScanningSequence": "EP",
+  "SequenceName": "epse2d1_104",
+  "SequenceVariant": "SK",
+  "SeriesDescription": "SpinEchoFieldMap_PA",
+  "SeriesNumber": 57,
+  "ShimSetting": [
+    -1218,
+    -10520,
+    -10118,
+    261,
+    282,
+    57,
+    -93,
+    -1
+  ],
+  "SliceThickness": 2,
+  "SliceTiming": [
+    3.9875,
+    0,
+    4.1,
+    0.11,
+    4.21,
+    0.22,
+    4.32,
+    0.3325,
+    4.4325,
+    0.4425,
+    4.5425,
+    0.5525,
+    4.6525,
+    0.6625,
+    4.765,
+    0.775,
+    4.875,
+    0.885,
+    4.985,
+    0.995,
+    5.0975,
+    1.1075,
+    5.2075,
+    1.2175,
+    5.3175,
+    1.3275,
+    5.43,
+    1.44,
+    5.54,
+    1.55,
+    5.65,
+    1.66,
+    5.7625,
+    1.7725,
+    5.8725,
+    1.8825,
+    5.9825,
+    1.9925,
+    6.095,
+    2.105,
+    6.205,
+    2.215,
+    6.315,
+    2.325,
+    6.4275,
+    2.4375,
+    6.5375,
+    2.5475,
+    6.6475,
+    2.6575,
+    6.76,
+    2.77,
+    6.87,
+    2.88,
+    6.98,
+    2.99,
+    7.0925,
+    3.1025,
+    7.2025,
+    3.2125,
+    7.3125,
+    3.3225,
+    7.425,
+    3.435,
+    7.535,
+    3.545,
+    7.645,
+    3.655,
+    7.7575,
+    3.7675,
+    7.8675,
+    3.8775
+  ],
+  "SoftwareVersions": "syngo MR E11",
+  "SpacingBetweenSlices": 2,
+  "StationName": "BAY4OC",
+  "TotalReadoutTime": 0.0597409,
+  "TxRefAmp": 241.394,
+  "VendorReportedEchoSpacing": 0.00058,
+  "WipMemBlock": "9c956ee6-b98b-4765-ad60-d0d7402ffc33||Sequence: ve11c/master r/5b0256d+; Dec  9 2016 09:59:18 by eja",
+  "dcmmeta_affine": [
+    [
+      -1.994627594947815,
+      -0.0933663621544838,
+      -0.11288727819919586,
+      107.61648559570312
+    ],
+    [
+      -0.039274632930755615,
+      1.8255707025527954,
+      -0.8159345984458923,
+      -52.79620361328125
+    ],
+    [
+      -0.14113228023052216,
+      0.8115260004997253,
+      1.8225003480911255,
+      -103.6546859741211
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "dcmmeta_reorient_transform": [
+    [
+      0,
+      -1,
+      0,
+      103
+    ],
+    [
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "dcmmeta_shape": [
+    104,
+    104,
+    72,
+    3
+  ],
+  "dcmmeta_slice_dim": 2,
+  "dcmmeta_version": 0.6,
+  "time": {
+    "samples": {
+      "AcquisitionNumber": [
+        1,
+        2,
+        3
+      ],
+      "AcquisitionTime": [
+        "092854.512500",
+        "092902.512500",
+        "092910.512500"
+      ],
+      "ContentTime": [
+        "092915.414000",
+        "092915.417000",
+        "092915.426000"
+      ],
+      "InstanceCreationTime": [
+        "092915.414000",
+        "092915.417000",
+        "092915.426000"
+      ],
+      "InstanceNumber": [
+        1,
+        2,
+        3
+      ],
+      "WindowCenter": [
+        7424,
+        7441,
+        7428
+      ],
+      "WindowWidth": [
+        16272,
+        16302,
+        16254
+      ]
+    },
+    "slices": {}
+  }
+}
