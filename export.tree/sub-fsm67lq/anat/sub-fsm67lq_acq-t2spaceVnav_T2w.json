@@ -1,0 +1,144 @@
+{
+  "AcquisitionMatrixPE": 256,
+  "AcquisitionNumber": 1,
+  "AcquisitionTime": "15:43:15.370000",
+  "BaseResolution": 256,
+  "BodyPartExamined": "BRAIN",
+  "CoilCombinationMethod": "Adaptive Combine",
+  "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "DeviceSerialNumber": "67026",
+  "DwellTime": 3e-06,
+  "EchoTime": 0.564,
+  "EchoTrainLength": 311,
+  "FlipAngle": 120,
+  "HeudiconvVersion": "0.11.4",
+  "ImageOrientationPatientDICOM": [
+    -0.0145542,
+    0.969209,
+    0.245808,
+    0.00403222,
+    0.245889,
+    -0.96929
+  ],
+  "ImageOrientationText": "Sag>Cor(-0.8)>Tra(-0.4)",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "M",
+    "ND",
+    "NORM"
+  ],
+  "ImagingFrequency": 123.188,
+  "InPlanePhaseEncodingDirectionDICOM": "ROW",
+  "InstitutionAddress": "13th St. 149,Charlestown,MA,US,02129",
+  "InstitutionName": "Martinos Center Bay 4 Prisma",
+  "InstitutionalDepartmentName": "Martinos Center",
+  "MRAcquisitionType": "3D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma_fit",
+  "MatrixCoilMode": "GRAPPA",
+  "Modality": "MR",
+  "NonlinearGradientCorrection": false,
+  "ParallelReductionFactorInPlane": 2,
+  "PartialFourier": 1,
+  "PatientPosition": "HFS",
+  "PercentPhaseFOV": 100,
+  "PercentSampling": 100,
+  "PhaseEncodingDirection": "i",
+  "PhaseEncodingSteps": 245,
+  "PhaseResolution": 1,
+  "PixelBandwidth": 650,
+  "ProcedureStepDescription": "INVESTIGATORS^Greve",
+  "ProtocolName": "T2w_SPC_vNav",
+  "PulseSequenceDetails": "%CustomerSeq%\\tse_vfl_mgh_epinav_ABCD",
+  "ReceiveCoilActiveElements": "HEA;HEP",
+  "ReceiveCoilName": "Head_32",
+  "ReconMatrixPE": 256,
+  "RefLinesPE": 32,
+  "RepetitionTime": 3.2,
+  "SAR": 0.128852,
+  "ScanOptions": "PFP",
+  "ScanningSequence": "SE",
+  "SequenceName": "spc_314ns",
+  "SequenceVariant": "SK\\SP",
+  "SeriesDescription": "T2w_SPC_vNav",
+  "SeriesNumber": 36,
+  "ShimSetting": [
+    -1208,
+    -10639,
+    -10252,
+    307,
+    186,
+    -45,
+    -32,
+    33
+  ],
+  "SliceThickness": 1,
+  "SoftwareVersions": "syngo MR E11",
+  "SpoilingState": true,
+  "StationName": "BAY4OC",
+  "TxRefAmp": 218.44,
+  "WipMemBlock": "Prisma_epi_moco_navigator_ABCD_tse_vfl.prot",
+  "dcmmeta_affine": [
+    [
+      0.9998859763145447,
+      -0.014554242603480816,
+      0.004032224882394075,
+      -88.29109954833984
+    ],
+    [
+      0.013116122223436832,
+      0.9692092537879944,
+      0.24588900804519653,
+      -130.3998565673828
+    ],
+    [
+      -0.007486797869205475,
+      -0.24580806493759155,
+      0.9692896008491516,
+      -102.35743713378906
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "dcmmeta_reorient_transform": [
+    [
+      0,
+      0,
+      -1,
+      255
+    ],
+    [
+      0,
+      -1,
+      0,
+      255
+    ],
+    [
+      -1,
+      0,
+      0,
+      175
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "dcmmeta_shape": [
+    176,
+    256,
+    256
+  ],
+  "dcmmeta_slice_dim": 0,
+  "dcmmeta_version": 0.6
+}

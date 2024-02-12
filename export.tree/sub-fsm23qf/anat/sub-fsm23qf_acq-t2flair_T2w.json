@@ -1,0 +1,144 @@
+{
+  "AcquisitionMatrixPE": 256,
+  "AcquisitionNumber": 1,
+  "AcquisitionTime": "09:29:27.922500",
+  "BaseResolution": 256,
+  "BodyPartExamined": "BRAIN",
+  "CoilCombinationMethod": "Adaptive Combine",
+  "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "DeviceSerialNumber": "67026",
+  "DwellTime": 2.8e-06,
+  "EchoTime": 0.394,
+  "EchoTrainLength": 254,
+  "FlipAngle": 120,
+  "HeudiconvVersion": "0.11.4",
+  "ImageOrientationPatientDICOM": [
+    -0.00835219,
+    0.986423,
+    0.164012,
+    0.00417263,
+    0.164051,
+    -0.986443
+  ],
+  "ImageOrientationText": "Sag>Cor(-0.4)>Tra(-0.3)",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "M",
+    "ND",
+    "NORM"
+  ],
+  "ImagingFrequency": 123.23,
+  "InPlanePhaseEncodingDirectionDICOM": "ROW",
+  "InstitutionAddress": "13th St. 149,Charlestown,MA,US,02129",
+  "InstitutionName": "Martinos Center Bay 4 Prisma",
+  "InstitutionalDepartmentName": "Martinos Center",
+  "InversionTime": 1.8,
+  "MRAcquisitionType": "3D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma_fit",
+  "MatrixCoilMode": "GRAPPA",
+  "Modality": "MR",
+  "NonlinearGradientCorrection": false,
+  "ParallelReductionFactorInPlane": 2,
+  "PartialFourier": 1,
+  "PatientPosition": "HFS",
+  "PercentPhaseFOV": 100,
+  "PercentSampling": 100,
+  "PhaseEncodingDirection": "i",
+  "PhaseEncodingSteps": 209,
+  "PhaseResolution": 1,
+  "PixelBandwidth": 700,
+  "ProcedureStepDescription": "INVESTIGATORS^Greve",
+  "ProtocolName": "t2_flair_sag_p2_1mm_FS_ellip_pf78",
+  "PulseSequenceDetails": "%SiemensSeq%\\tse_vfl",
+  "ReceiveCoilActiveElements": "HEA;HEP",
+  "ReceiveCoilName": "Head_32",
+  "ReconMatrixPE": 256,
+  "RefLinesPE": 24,
+  "RepetitionTime": 5,
+  "SAR": 0.12094,
+  "ScanOptions": "IR\\PFP\\FS",
+  "ScanningSequence": "SE\\IR",
+  "SequenceName": "*spcir_284ns",
+  "SequenceVariant": "SK\\SP\\MP",
+  "SeriesDescription": "t2_flair_sag_p2_1mm_FS_ellip_pf78",
+  "SeriesNumber": 49,
+  "ShimSetting": [
+    -1260,
+    -10448,
+    -10249,
+    272,
+    80,
+    -136,
+    98,
+    -31
+  ],
+  "SliceThickness": 1.05,
+  "SoftwareVersions": "syngo MR E11",
+  "SpoilingState": true,
+  "StationName": "BAY4OC",
+  "TxRefAmp": 253.459,
+  "dcmmeta_affine": [
+    [
+      1.0499542951583862,
+      -0.008352193981409073,
+      0.004172630608081818,
+      -96.40463256835938
+    ],
+    [
+      0.007932331413030624,
+      0.9864229559898376,
+      0.1640508770942688,
+      -137.07501220703125
+    ],
+    [
+      -0.005760471802204847,
+      -0.16401220858097076,
+      0.986443042755127,
+      -114.32341003417969
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "dcmmeta_reorient_transform": [
+    [
+      0,
+      0,
+      -1,
+      255
+    ],
+    [
+      0,
+      -1,
+      0,
+      255
+    ],
+    [
+      -1,
+      0,
+      0,
+      191
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "dcmmeta_shape": [
+    192,
+    256,
+    256
+  ],
+  "dcmmeta_slice_dim": 0,
+  "dcmmeta_version": 0.6
+}
