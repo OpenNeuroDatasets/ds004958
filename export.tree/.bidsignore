@@ -1,4 +1,0 @@
-# RMS files are not supported by BIDS
-**/anat/*T1wRMS*
-# MUlti-echo files are not supported with the T1w suffix; see https://github.com/bids-standard/bids-specification/issues/654
-**/anat/*echo*T1w*
